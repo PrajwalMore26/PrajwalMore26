@@ -17,6 +17,9 @@
 
  # I'm a engineering student working  around **Code** with interest ranging from Web-Development, C++, DSA !
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrajwalMore26" alt="Prajwal More" /></a> </p>
+
+📫 How to reach me **more.prajwal56@gmail.com**
 
 ## 🚀 **Socials  :**
 <p align = "center">
